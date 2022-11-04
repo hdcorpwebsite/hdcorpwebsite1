@@ -300,7 +300,7 @@ export default function Home() {
           </VStack>
         </Stack>
         <br />
-        {/*Products*/}
+        Products
         <Box textAlign={"center"} marginTop={smallscreen ? "1rem" : "3rem"}>
           <Text fontSize={smallscreen ? "2rem" : "3rem"} color="blue.700">
             Products
